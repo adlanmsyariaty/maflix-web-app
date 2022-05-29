@@ -1,0 +1,5 @@
+export const BASE_URL = 'https://moviereactphase3ams.herokuapp.com'
+export const FETCH_MOVIE_DATA = 'movies/fetchData'
+export const FETCH_GENRE_DATA = 'genres/fetchData'
+export const FETCH_CAST_DATA = 'casts/fetchData'
+export const FETCH_MOVIE_DETAIL = 'movie/detailData'
