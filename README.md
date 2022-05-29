@@ -1,4 +1,4 @@
-# P3-Challenge-1
+# Maflix-Web-App
 
 - Tema Aplikasi: Movie
 - CSS Framework: Tailwind
