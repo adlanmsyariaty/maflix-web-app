@@ -1,10 +1,10 @@
 # Maflix-Web-App
 
 ## Admin Account for Sign-in
-
-- URL: https://moviereactphase3ams.web.app/
-- email: admin1@mail.com
-- password: 12345
+- URL (user) : https://moviereactuserphase3.web.app/
+- URL (admin - CMS) : https://moviereactphase3ams.web.app/
+- email : admin1@mail.com
+- password : 12345
 
 - Tema Aplikasi: Movie
 - CSS Framework: Tailwind
